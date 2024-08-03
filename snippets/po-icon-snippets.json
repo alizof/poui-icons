@@ -1,0 +1,713 @@
+{
+    "po-icon-a11y-elderly": {
+      "prefix": "po-icon-a11y-elderly",
+      "body": ["po-icon-a11y-elderly"],
+      "description": "Ícone de acessibilidade para idosos"
+    },
+    "po-icon-a11y-pregnant": {
+      "prefix": "po-icon-a11y-pregnant",
+      "body": ["po-icon-a11y-pregnant"],
+      "description": "Ícone de acessibilidade para grávidas"
+    },
+    "po-icon-a11y-wheelchair": {
+      "prefix": "po-icon-a11y-wheelchair",
+      "body": ["po-icon-a11y-wheelchair"],
+      "description": "Ícone de acessibilidade para cadeirantes"
+    },
+    "po-icon-agro-business": {
+      "prefix": "po-icon-agro-business",
+      "body": ["po-icon-agro-business"],
+      "description": "Ícone de negócios agropecuários"
+    },
+    "po-icon-align-center": {
+      "prefix": "po-icon-align-center",
+      "body": ["po-icon-align-center"],
+      "description": "Ícone de alinhamento central"
+    },
+    "po-icon-align-justify": {
+      "prefix": "po-icon-align-justify",
+      "body": ["po-icon-align-justify"],
+      "description": "Ícone de alinhamento justificado"
+    },
+    "po-icon-align-left": {
+      "prefix": "po-icon-align-left",
+      "body": ["po-icon-align-left"],
+      "description": "Ícone de alinhamento à esquerda"
+    },
+    "po-icon-align-right": {
+      "prefix": "po-icon-align-right",
+      "body": ["po-icon-align-right"],
+      "description": "Ícone de alinhamento à direita"
+    },
+    "po-icon-anchor": {
+      "prefix": "po-icon-anchor",
+      "body": ["po-icon-anchor"],
+      "description": "Ícone de âncora"
+    },
+    "po-icon-archive": {
+      "prefix": "po-icon-archive",
+      "body": ["po-icon-archive"],
+      "description": "Ícone de arquivo"
+    },
+    "po-icon-arrow-down": {
+      "prefix": "po-icon-arrow-down",
+      "body": ["po-icon-arrow-down"],
+      "description": "Ícone de seta para baixo"
+    },
+    "po-icon-arrow-left": {
+      "prefix": "po-icon-arrow-left",
+      "body": ["po-icon-arrow-left"],
+      "description": "Ícone de seta para esquerda"
+    },
+    "po-icon-arrow-right": {
+      "prefix": "po-icon-arrow-right",
+      "body": ["po-icon-arrow-right"],
+      "description": "Ícone de seta para direita"
+    },
+    "po-icon-arrow-up": {
+      "prefix": "po-icon-arrow-up",
+      "body": ["po-icon-arrow-up"],
+      "description": "Ícone de seta para cima"
+    },
+    "po-icon-attach": {
+      "prefix": "po-icon-attach",
+      "body": ["po-icon-attach"],
+      "description": "Ícone de anexo"
+    },
+    "po-icon-automatic-barrier": {
+      "prefix": "po-icon-automatic-barrier",
+      "body": ["po-icon-automatic-barrier"],
+      "description": "Ícone de barreira automática"
+    },
+    "po-icon-balance": {
+      "prefix": "po-icon-balance",
+      "body": ["po-icon-balance"],
+      "description": "Ícone de equilíbrio"
+    },
+    "po-icon-balance-weight": {
+      "prefix": "po-icon-balance-weight",
+      "body": ["po-icon-balance-weight"],
+      "description": "Ícone de peso de balança"
+    },
+    "po-icon-bar-code": {
+      "prefix": "po-icon-bar-code",
+      "body": ["po-icon-bar-code"],
+      "description": "Ícone de código de barras"
+    },
+    "po-icon-basket": {
+      "prefix": "po-icon-basket",
+      "body": ["po-icon-basket"],
+      "description": "Ícone de cesta"
+    },
+    "po-icon-bluetooth": {
+      "prefix": "po-icon-bluetooth",
+      "body": ["po-icon-bluetooth"],
+      "description": "Ícone de Bluetooth"
+    },
+    "po-icon-book": {
+      "prefix": "po-icon-book",
+      "body": ["po-icon-book"],
+      "description": "Ícone de livro"
+    },
+    "po-icon-calculator": {
+      "prefix": "po-icon-calculator",
+      "body": ["po-icon-calculator"],
+      "description": "Ícone de calculadora"
+    },
+    "po-icon-calendar": {
+      "prefix": "po-icon-calendar",
+      "body": ["po-icon-calendar"],
+      "description": "Ícone de calendário"
+    },
+    "po-icon-calendar-ok": {
+      "prefix": "po-icon-calendar-ok",
+      "body": ["po-icon-calendar-ok"],
+      "description": "Ícone de calendário OK"
+    },
+    "po-icon-calendar-settings": {
+      "prefix": "po-icon-calendar-settings",
+      "body": ["po-icon-calendar-settings"],
+      "description": "Ícone de configurações do calendário"
+    },
+    "po-icon-camera": {
+      "prefix": "po-icon-camera",
+      "body": ["po-icon-camera"],
+      "description": "Ícone de câmera"
+    },
+    "po-icon-cart": {
+      "prefix": "po-icon-cart",
+      "body": ["po-icon-cart"],
+      "description": "Ícone de carrinho"
+    },
+    "po-icon-change": {
+      "prefix": "po-icon-change",
+      "body": ["po-icon-change"],
+      "description": "Ícone de mudança"
+    },
+    "po-icon-chart-area": {
+      "prefix": "po-icon-chart-area",
+      "body": ["po-icon-chart-area"],
+      "description": "Ícone de gráfico de área"
+    },
+    "po-icon-chart-columns": {
+      "prefix": "po-icon-chart-columns",
+      "body": ["po-icon-chart-columns"],
+      "description": "Ícone de gráfico de colunas"
+    },
+    "po-icon-chat": {
+      "prefix": "po-icon-chat",
+      "body": ["po-icon-chat"],
+      "description": "Ícone de chat"
+    },
+    "po-icon-clear-content": {
+      "prefix": "po-icon-clear-content",
+      "body": ["po-icon-clear-content"],
+      "description": "Ícone de limpar conteúdo"
+    },
+    "po-icon-clipboard": {
+      "prefix": "po-icon-clipboard",
+      "body": ["po-icon-clipboard"],
+      "description": "Ícone de prancheta"
+    },
+    "po-icon-clock": {
+      "prefix": "po-icon-clock",
+      "body": ["po-icon-clock"],
+      "description": "Ícone de relógio"
+    },
+    "po-icon-close": {
+      "prefix": "po-icon-close",
+      "body": ["po-icon-close"],
+      "description": "Ícone de fechar"
+    },
+    "po-icon-company": {
+      "prefix": "po-icon-company",
+      "body": ["po-icon-company"],
+      "description": "Ícone de empresa"
+    },
+    "po-icon-construction": {
+      "prefix": "po-icon-construction",
+      "body": ["po-icon-construction"],
+      "description": "Ícone de construção"
+    },
+    "po-icon-copy": {
+      "prefix": "po-icon-copy",
+      "body": ["po-icon-copy"],
+      "description": "Ícone de copiar"
+    },
+    "po-icon-cotton": {
+      "prefix": "po-icon-cotton",
+      "body": ["po-icon-cotton"],
+      "description": "Ícone de algodão"
+    },
+    "po-icon-credit-payment": {
+      "prefix": "po-icon-credit-payment",
+      "body": ["po-icon-credit-payment"],
+      "description": "Ícone de pagamento com cartão de crédito"
+    },
+    "po-icon-cut": {
+      "prefix": "po-icon-cut",
+      "body": ["po-icon-cut"],
+      "description": "Ícone de cortar"
+    },
+    "po-icon-database": {
+      "prefix": "po-icon-database",
+      "body": ["po-icon-database"],
+      "description": "Ícone de banco de dados"
+    },
+    "po-icon-debit-payment": {
+      "prefix": "po-icon-debit-payment",
+      "body": ["po-icon-debit-payment"],
+      "description": "Ícone de pagamento com cartão de débito"
+    },
+    "po-icon-delete": {
+      "prefix": "po-icon-delete",
+      "body": ["po-icon-delete"],
+      "description": "Ícone de deletar"
+    },
+    "po-icon-device-desktop": {
+      "prefix": "po-icon-device-desktop",
+      "body": ["po-icon-device-desktop"],
+      "description": "Ícone de desktop"
+    },
+    "po-icon-device-notebook": {
+      "prefix": "po-icon-device-notebook",
+      "body": ["po-icon-device-notebook"],
+      "description": "Ícone de notebook"
+    },
+    "po-icon-device-smartphone": {
+      "prefix": "po-icon-device-smartphone",
+      "body": ["po-icon-device-smartphone"],
+      "description": "Ícone de smartphone"
+    },
+    "po-icon-device-tablet": {
+      "prefix": "po-icon-device-tablet",
+      "body": ["po-icon-device-tablet"],
+      "description": "Ícone de tablet"
+    },
+    "po-icon-doc-xl": {
+      "prefix": "po-icon-doc-xl",
+      "body": ["po-icon-doc-xl"],
+      "description": "Ícone de documento XL"
+    },
+    "po-icon-document": {
+      "prefix": "po-icon-document",
+      "body": ["po-icon-document"],
+      "description": "Ícone de documento"
+    },
+    "po-icon-document-double": {
+      "prefix": "po-icon-document-double",
+      "body": ["po-icon-document-double"],
+      "description": "Ícone de documento duplo"
+    },
+    "po-icon-document-filled": {
+      "prefix": "po-icon-document-filled",
+      "body": ["po-icon-document-filled"],
+      "description": "Ícone de documento preenchido"
+    },
+    "po-icon-download": {
+      "prefix": "po-icon-download",
+      "body": ["po-icon-download"],
+      "description": "Ícone de download"
+    },
+    "po-icon-edit": {
+      "prefix": "po-icon-edit",
+      "body": ["po-icon-edit"],
+      "description": "Ícone de editar"
+    },
+    "po-icon-exam": {
+      "prefix": "po-icon-exam",
+      "body": ["po-icon-exam"],
+      "description": "Ícone de exame"
+    },
+    "po-icon-exclamation": {
+      "prefix": "po-icon-exclamation",
+      "body": ["po-icon-exclamation"],
+      "description": "Ícone de exclamação"
+    },
+    "po-icon-exit": {
+      "prefix": "po-icon-exit",
+      "body": ["po-icon-exit"],
+      "description": "Ícone de sair"
+    },
+    "po-icon-export": {
+      "prefix": "po-icon-export",
+      "body": ["po-icon-export"],
+      "description": "Ícone de exportar"
+    },
+    "po-icon-eye": {
+      "prefix": "po-icon-eye",
+      "body": ["po-icon-eye"],
+      "description": "Ícone de olho"
+    },
+    "po-icon-eye-off": {
+      "prefix": "po-icon-eye-off",
+      "body": ["po-icon-eye-off"],
+      "description": "Ícone de olho fechado"
+    },
+    "po-icon-filter": {
+      "prefix": "po-icon-filter",
+      "body": ["po-icon-filter"],
+      "description": "Ícone de filtro"
+    },
+    "po-icon-finance": {
+      "prefix": "po-icon-finance",
+      "body": ["po-icon-finance"],
+      "description": "Ícone de finanças"
+    },
+    "po-icon-finance-bitcoin": {
+      "prefix": "po-icon-finance-bitcoin",
+      "body": ["po-icon-finance-bitcoin"],
+      "description": "Ícone de finanças Bitcoin"
+    },
+    "po-icon-finance-secure": {
+      "prefix": "po-icon-finance-secure",
+      "body": ["po-icon-finance-secure"],
+      "description": "Ícone de finanças seguras"
+    },
+    "po-icon-first-page": {
+      "prefix": "po-icon-first-page",
+      "body": ["po-icon-first-page"],
+      "description": "Ícone de primeira página"
+    },
+    "po-icon-folder": {
+      "prefix": "po-icon-folder",
+      "body": ["po-icon-folder"],
+      "description": "Ícone de pasta"
+    },
+    "po-icon-food": {
+      "prefix": "po-icon-food",
+      "body": ["po-icon-food"],
+      "description": "Ícone de comida"
+    },
+    "po-icon-food-menu": {
+      "prefix": "po-icon-food-menu",
+      "body": ["po-icon-food-menu"],
+      "description": "Ícone de menu de comida"
+    },
+    "po-icon-gas": {
+      "prefix": "po-icon-gas",
+      "body": ["po-icon-gas"],
+      "description": "Ícone de gás"
+    },
+    "po-icon-gift": {
+      "prefix": "po-icon-gift",
+      "body": ["po-icon-gift"],
+      "description": "Ícone de presente"
+    },
+    "po-icon-grid": {
+      "prefix": "po-icon-grid",
+      "body": ["po-icon-grid"],
+      "description": "Ícone de grid"
+    },
+    "po-icon-handshake": {
+      "prefix": "po-icon-handshake",
+      "body": ["po-icon-handshake"],
+      "description": "Ícone de aperto de mão"
+    },
+    "po-icon-hdd": {
+      "prefix": "po-icon-hdd",
+      "body": ["po-icon-hdd"],
+      "description": "Ícone de HD"
+    },
+    "po-icon-help": {
+      "prefix": "po-icon-help",
+      "body": ["po-icon-help"],
+      "description": "Ícone de ajuda"
+    },
+    "po-icon-history": {
+      "prefix": "po-icon-history",
+      "body": ["po-icon-history"],
+      "description": "Ícone de histórico"
+    },
+    "po-icon-home": {
+      "prefix": "po-icon-home",
+      "body": ["po-icon-home"],
+      "description": "Ícone de casa"
+    },
+    "po-icon-image-align-inline": {
+      "prefix": "po-icon-image-align-inline",
+      "body": ["po-icon-image-align-inline"],
+      "description": "Ícone de alinhamento de imagem inline"
+    },
+    "po-icon-image-align-left": {
+      "prefix": "po-icon-image-align-left",
+      "body": ["po-icon-image-align-left"],
+      "description": "Ícone de alinhamento de imagem à esquerda"
+    },
+    "po-icon-image-align-right": {
+      "prefix": "po-icon-image-align-right",
+      "body": ["po-icon-image-align-right"],
+      "description": "Ícone de alinhamento de imagem à direita"
+    },
+    "po-icon-info": {
+      "prefix": "po-icon-info",
+      "body": ["po-icon-info"],
+      "description": "Ícone de informação"
+    },
+    "po-icon-injector": {
+      "prefix": "po-icon-injector",
+      "body": ["po-icon-injector"],
+      "description": "Ícone de injetor"
+    },
+    "po-icon-keyboard": {
+      "prefix": "po-icon-keyboard",
+      "body": ["po-icon-keyboard"],
+      "description": "Ícone de teclado"
+    },
+    "po-icon-last-page": {
+      "prefix": "po-icon-last-page",
+      "body": ["po-icon-last-page"],
+      "description": "Ícone de última página"
+    },
+    "po-icon-layer": {
+      "prefix": "po-icon-layer",
+      "body": ["po-icon-layer"],
+      "description": "Ícone de camada"
+    },
+    "po-icon-light": {
+      "prefix": "po-icon-light",
+      "body": ["po-icon-light"],
+      "description": "Ícone de luz"
+    },
+    "po-icon-like": {
+      "prefix": "po-icon-like",
+      "body": ["po-icon-like"],
+      "description": "Ícone de curtir"
+    },
+    "po-icon-link": {
+      "prefix": "po-icon-link",
+      "body": ["po-icon-link"],
+      "description": "Ícone de link"
+    },
+    "po-icon-list": {
+      "prefix": "po-icon-list",
+      "body": ["po-icon-list"],
+      "description": "Ícone de lista"
+    },
+    "po-icon-lock": {
+      "prefix": "po-icon-lock",
+      "body": ["po-icon-lock"],
+      "description": "Ícone de cadeado"
+    },
+    "po-icon-lock-off": {
+      "prefix": "po-icon-lock-off",
+      "body": ["po-icon-lock-off"],
+      "description": "Ícone de cadeado aberto"
+    },
+    "po-icon-mail": {
+      "prefix": "po-icon-mail",
+      "body": ["po-icon-mail"],
+      "description": "Ícone de e-mail"
+    },
+    "po-icon-manufacture": {
+      "prefix": "po-icon-manufacture",
+      "body": ["po-icon-manufacture"],
+      "description": "Ícone de manufatura"
+    },
+    "po-icon-map": {
+      "prefix": "po-icon-map",
+      "body": ["po-icon-map"],
+      "description": "Ícone de mapa"
+    },
+    "po-icon-menu-close": {
+      "prefix": "po-icon-menu-close",
+      "body": ["po-icon-menu-close"],
+      "description": "Ícone de menu fechado"
+    },
+    "po-icon-menu-open": {
+      "prefix": "po-icon-menu-open",
+      "body": ["po-icon-menu-open"],
+      "description": "Ícone de menu aberto"
+    },
+    "po-icon-message": {
+      "prefix": "po-icon-message",
+      "body": ["po-icon-message"],
+      "description": "Ícone de mensagem"
+    },
+    "po-icon-microphone": {
+      "prefix": "po-icon-microphone",
+      "body": ["po-icon-microphone"],
+      "description": "Ícone de microfone"
+    },
+    "po-icon-minus": {
+      "prefix": "po-icon-minus",
+      "body": ["po-icon-minus"],
+      "description": "Ícone de menos"
+    },
+    "po-icon-minus-circle": {
+      "prefix": "po-icon-minus-circle",
+      "body": ["po-icon-minus-circle"],
+      "description": "Ícone de menos com círculo"
+    },
+    "po-icon-money": {
+      "prefix": "po-icon-money",
+      "body": ["po-icon-money"],
+      "description": "Ícone de dinheiro"
+    },
+    "po-icon-more": {
+      "prefix": "po-icon-more",
+      "body": ["po-icon-more"],
+      "description": "Ícone de mais opções"
+    },
+    "po-icon-more-vert": {
+      "prefix": "po-icon-more-vert",
+      "body": ["po-icon-more-vert"],
+      "description": "Ícone de mais opções verticais"
+    },
+    "po-icon-news": {
+      "prefix": "po-icon-news",
+      "body": ["po-icon-news"],
+      "description": "Ícone de notícias"
+    },
+    "po-icon-no-signal": {
+      "prefix": "po-icon-no-signal",
+      "body": ["po-icon-no-signal"],
+      "description": "Ícone sem sinal"
+    },
+    "po-icon-notification": {
+      "prefix": "po-icon-notification",
+      "body": ["po-icon-notification"],
+      "description": "Ícone de notificação"
+    },
+    "po-icon-oil": {
+      "prefix": "po-icon-oil",
+      "body": ["po-icon-oil"],
+      "description": "Ícone de óleo"
+    },
+    "po-icon-oil-analysis": {
+      "prefix": "po-icon-oil-analysis",
+      "body": ["po-icon-oil-analysis"],
+      "description": "Ícone de análise de óleo"
+    },
+    "po-icon-ok": {
+      "prefix": "po-icon-ok",
+      "body": ["po-icon-ok"],
+      "description": "Ícone de OK"
+    },
+    "po-icon-pallet-full": {
+      "prefix": "po-icon-pallet-full",
+      "body": ["po-icon-pallet-full"],
+      "description": "Ícone de palete cheio"
+    },
+    "po-icon-pallet-partial": {
+      "prefix": "po-icon-pallet-partial",
+      "body": ["po-icon-pallet-partial"],
+      "description": "Ícone de palete parcial"
+    },
+    "po-icon-parameter": {
+      "prefix": "po-icon-parameter",
+      "body": ["po-icon-parameter"],
+      "description": "Ícone de parâmetro"
+    },
+    "po-icon-paste": {
+      "prefix": "po-icon-paste",
+      "body": ["po-icon-paste"],
+      "description": "Ícone de colar"
+    },
+    "po-icon-payment": {
+      "prefix": "po-icon-payment",
+      "body": ["po-icon-payment"],
+      "description": "Ícone de pagamento"
+    },
+    "po-icon-pdf": {
+      "prefix": "po-icon-pdf",
+      "body": ["po-icon-pdf"],
+      "description": "Ícone de PDF"
+    },
+    "po-icon-picker": {
+      "prefix": "po-icon-picker",
+      "body": ["po-icon-picker"],
+      "description": "Ícone de seletor"
+    },
+    "po-icon-picture": {
+      "prefix": "po-icon-picture",
+      "body": ["po-icon-picture"],
+      "description": "Ícone de imagem"
+    },
+    "po-icon-pin": {
+      "prefix": "po-icon-pin",
+      "body": ["po-icon-pin"],
+      "description": "Ícone de alfinete"
+    },
+    "po-icon-pix-logo": {
+      "prefix": "po-icon-pix-logo",
+      "body": ["po-icon-pix-logo"],
+      "description": "Ícone do logo do Pix"
+    },
+    "po-icon-plus": {
+      "prefix": "po-icon-plus",
+      "body": ["po-icon-plus"],
+      "description": "Ícone de mais"
+    },
+    "po-icon-plus-circle": {
+      "prefix": "po-icon-plus-circle",
+      "body": ["po-icon-plus-circle"],
+      "description": "Ícone de mais com círculo"
+    },
+    "po-icon-print": {
+      "prefix": "po-icon-print",
+      "body": ["po-icon-print"],
+      "description": "Ícone de impressão"
+    },
+    "po-icon-pushcart": {
+      "prefix": "po-icon-pushcart",
+      "body": ["po-icon-pushcart"],
+      "description": "Ícone de carrinho de empurrar"
+    },
+    "po-icon-qr-code": {
+      "prefix": "po-icon-qr-code",
+      "body": ["po-icon-qr-code"],
+      "description": "Ícone de código QR"
+    },
+    "po-icon-refresh": {
+      "prefix": "po-icon-refresh",
+      "body": ["po-icon-refresh"],
+      "description": "Ícone de atualizar"
+    },
+    "po-icon-sale": {
+      "prefix": "po-icon-sale",
+      "body": ["po-icon-sale"],
+      "description": "Ícone de venda"
+    },
+    "po-icon-screen-full": {
+      "prefix": "po-icon-screen-full",
+      "body": ["po-icon-screen-full"],
+      "description": "Ícone de tela cheia"
+    },
+    "po-icon-search": {
+      "prefix": "po-icon-search",
+      "body": ["po-icon-search"],
+      "description": "Ícone de pesquisa"
+    },
+    "po-icon-share": {
+      "prefix": "po-icon-share",
+      "body": ["po-icon-share"],
+      "description": "Ícone de compartilhar"
+    },
+    "po-icon-shield": {
+      "prefix": "po-icon-shield",
+      "body": ["po-icon-shield"],
+      "description": "Ícone de escudo"
+    },
+    "po-icon-shopping-cart": {
+      "prefix": "po-icon-shopping-cart",
+      "body": ["po-icon-shopping-cart"],
+      "description": "Ícone de carrinho de compras"
+    },
+    "po-icon-star": {
+      "prefix": "po-icon-star",
+      "body": ["po-icon-star"],
+      "description": "Ícone de estrela"
+    },
+    "po-icon-tag": {
+      "prefix": "po-icon-tag",
+      "body": ["po-icon-tag"],
+      "description": "Ícone de tag"
+    },
+    "po-icon-trash": {
+      "prefix": "po-icon-trash",
+      "body": ["po-icon-trash"],
+      "description": "Ícone de lixeira"
+    },
+    "po-icon-upload": {
+      "prefix": "po-icon-upload",
+      "body": ["po-icon-upload"],
+      "description": "Ícone de upload"
+    },
+    "po-icon-user": {
+      "prefix": "po-icon-user",
+      "body": ["po-icon-user"],
+      "description": "Ícone de usuário"
+    },
+    "po-icon-users": {
+      "prefix": "po-icon-users",
+      "body": ["po-icon-users"],
+      "description": "Ícone de usuários"
+    },
+    "po-icon-warning": {
+      "prefix": "po-icon-warning",
+      "body": ["po-icon-warning"],
+      "description": "Ícone de alerta"
+    },
+    "po-icon-window": {
+      "prefix": "po-icon-window",
+      "body": ["po-icon-window"],
+      "description": "Ícone de janela"
+    },
+    "po-icon-wifi": {
+      "prefix": "po-icon-wifi",
+      "body": ["po-icon-wifi"],
+      "description": "Ícone de Wi-Fi"
+    },
+    "po-icon-zoom-in": {
+      "prefix": "po-icon-zoom-in",
+      "body": ["po-icon-zoom-in"],
+      "description": "Ícone de zoom in"
+    },
+    "po-icon-zoom-out": {
+      "prefix": "po-icon-zoom-out",
+      "body": ["po-icon-zoom-out"],
+      "description": "Ícone de zoom out"
+    }
+  }
+  
