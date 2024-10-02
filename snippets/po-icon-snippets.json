@@ -244,9 +244,9 @@
       "body": ["po-icon-device-tablet"],
       "description": "Ícone de tablet"
     },
-    "po-icon-doc-xl": {
-      "prefix": "po-icon-doc-xl",
-      "body": ["po-icon-doc-xl"],
+    "po-icon-doc-xls": {
+      "prefix": "po-icon-doc-xls",
+      "body": ["po-icon-doc-xls"],
       "description": "Ícone de documento XL"
     },
     "po-icon-document": {
